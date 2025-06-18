@@ -1,0 +1,19 @@
+# WordPress
+/wp-admin/
+/wp-includes/
+/wp-content/
+wp-config.php
+.htaccess
+
+# Build files
+/build/
+/node_modules/
+/vendor/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+debug.log

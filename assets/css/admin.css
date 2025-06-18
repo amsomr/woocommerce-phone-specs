@@ -1,0 +1,18 @@
+#wps_specs_result .spinner {
+    float: none;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+#wps_specs_result table {
+    margin-top: 15px;
+}
+
+#wps_specs_result h4 {
+    margin-bottom: 5px;
+}
+
+#wps_specs_result p {
+    font-style: italic;
+    color: #666;
+}
